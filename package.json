@@ -22,5 +22,8 @@
     "truffle": "^5.0.4",
     "truffle-contract": "^4.0.5",
     "truffle-hdwallet-provider": "^1.0.4"
+  },
+  "resolutions": {
+    "concat-stream": "git+https://github.com/max-mapper/concat-stream.git"
   }
 }
